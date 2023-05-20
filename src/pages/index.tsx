@@ -1,6 +1,6 @@
-import { useMediaQuery } from "@/lib/mantine/useMediaQuery";
 import { Button, Select } from "@mantine/core";
 import { Inter } from "next/font/google";
+import { useMediaQuery } from "src/lib/mantine/useMediaQuery";
 
 const inter = Inter({ subsets: ["latin"] });
 
