@@ -1,3 +1,6 @@
 {
-  "cSpell.words": ["ianvs", "mantine", "naviro", "tailwindcss"]
+  "cSpell.words": ["ianvs", "mantine", "naviro", "tailwindcss"],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
 }

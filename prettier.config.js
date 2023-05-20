@@ -2,6 +2,7 @@
 
 /** @type {import("@ianvs/prettier-plugin-sort-imports").PrettierConfig} */
 module.exports = {
+  plugins: [require("prettier-plugin-tailwindcss")],
   importOrder: [
     "^@core/(.*)$",
     "",
